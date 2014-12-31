@@ -1,0 +1,8 @@
+== README
+
+The very first RoR project by Kevin Kim
+
+2014/12/31
+
+
+p.s.: this project is a product of following the Ruby on Rails Tutoril by Michael Hartl.
